@@ -1,0 +1,58 @@
+/* Header Section */
+.app-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 40px;
+  background: #15062c;
+  color: white;
+  font-weight: bold;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Logo */
+.app-logo {
+  font-size: 28px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+/* Navigation Bar */
+.app-nav {
+  display: flex;
+  align-items: center;
+}
+
+/* Removing white box around nav buttons */
+.nav-link {
+  background: none;  /* Removes any background */
+  border: none;      /* Removes any border */
+  color: white;
+  font-weight: 500;
+  font-size: 16px;
+  margin: 0 15px;
+  cursor: pointer;
+  transition: color 0.3s, transform 0.2s;
+}
+
+.nav-link:hover {
+  color: #ff9f43;
+  transform: scale(1.1);
+}
+
+/* Navigation Buttons (Get Started & Sign Up) */
+.app-nav .btn {
+  background-color: #ff9f43;
+  color: white;
+  padding: 10px 15px;
+  border-radius: 5px;
+  margin-left: 15px;
+  border: none;
+  cursor: pointer;
+  transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.app-nav .btn:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}

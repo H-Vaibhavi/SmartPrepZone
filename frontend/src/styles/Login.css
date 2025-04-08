@@ -1,0 +1,74 @@
+.login-container {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  height: 100vh;
+  padding-top: 50px; /* Increased space below header */
+  background: #f4edea;
+  overflow-y: auto;
+}
+
+
+/* Login Box */
+.login-box {
+  background: white;
+  padding: 35px 30px; /* Adjusted padding to equal left and right */
+  border-radius: 12px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.15);
+  text-align: center;
+  width: 400px;
+  animation: fadeIn 0.5s ease-in-out;
+  position: relative;
+  margin: 0 auto; /* Center alignment */
+  box-sizing: border-box; /* Ensures padding is included in width */
+}
+
+.login-box p span {
+  font-weight: bold;
+  color: #15062c;
+}
+
+.login-box p{
+  font-size: 15px;
+}
+/* Input Fields */
+.login-box input {
+  width: 100%;
+  padding: 12px;
+  margin-bottom: 16px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 14px;
+  outline: none;
+  transition: border-color 0.3s;
+  box-sizing: border-box; /* Important to match button */
+}
+
+/* Login Button */
+.login-btn {
+  width: 100%;
+  padding: 12px;
+  background-color: #ff9f43;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background 0.3s ease, transform 0.3s ease;
+  box-sizing: border-box; /* Matches input width */
+}
+
+.login-btn:hover {  
+  transform: translateY(-3px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
+
+/* signup Link */
+.signup-link {
+  cursor: pointer;
+  transition: color 0.3s;
+}
+.signup-link span:hover{
+  text-decoration: underline;
+  color: #0056b3;
+}

@@ -1,0 +1,96 @@
+/* Reset & Global */
+body, html {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    background:  #f4edea;
+    overflow-x: hidden;
+}
+
+/* Container: Holds Everything */
+.contact-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    min-height: 100vh;
+    width: 100%;
+    padding: 40px 20px;
+}
+
+/* Contact Box */
+.contact-box {
+    background: white;
+    padding: 40px;
+    border-radius: 15px;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    max-width: 700px;
+    width: 100%;
+    animation: fadeIn 0.5s ease-in-out;
+    margin-bottom: 40px;
+}
+
+/* Contact Grid */
+.contact-grid {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+/* Contact Row */
+.contact-row {
+    display: flex;
+    justify-content: space-between;
+    gap: 15px;
+}
+
+/* Contact Card */
+.contact-card {
+    background: #f4f4f4;
+    padding: 20px;
+    border-radius: 12px;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    flex: 1;
+    transition: transform 0.3s, background 0.3s;
+}
+
+.contact-card:hover {
+    background: #ff9f43;
+    transform: translateY(-5px);
+    color: white;
+}
+
+.contact-card h3 {
+    margin-top: 10px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+/* Contact Icons */
+.contact-icon {
+    font-size: 28px;
+    color: #ff9f43;
+}
+
+/* Contact Links */
+.contact-link {
+    color: #15062c;
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.3s;
+}
+
+.contact-link:hover {
+    color: white;
+    text-decoration: underline;
+}
+
+/* Responsive Design */
+@media (max-width: 600px) {
+    .contact-row {
+        flex-direction: column;
+    }
+}

@@ -1,0 +1,130 @@
+/* General Styles */
+html, body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+}
+body {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden; /* prevents horizontal scroll */
+  overflow-y: auto;   /* scroll only when needed */
+}
+html {
+  overflow-y: auto;
+}
+
+
+/* App Container */
+#root,.app {
+  display: flex;
+  flex-direction: column;
+  width: 100vw;
+  min-height: 100vh;
+  overflow-x: hidden;
+  margin: 0;
+  padding: 0;
+  animation: fadeIn 1.5s ease-in-out;
+}
+
+/* Fade-in Animation */
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+/* Main Content */
+.app-main {
+  display: flex;
+  flex : 1; 
+  justify-content: center;
+  align-items: center;
+  background-color: #f4edea;
+}
+
+.content {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 80%;
+  max-width: 1200px; /* Optional to keep things neat on big screens */
+  padding: 0px 0px 200px;    /* Optional internal spacing */
+  box-sizing: border-box;
+}
+
+
+
+/* Text Content */
+.text {
+  flex: 1;
+  min-width: 300px;
+  text-align: left;
+}
+
+h1 {
+  font-size: 42px;
+  font-weight: 700;
+  color: #2d3436;
+  margin-bottom: 20px;
+}
+
+p {
+  font-size: 18px;
+  color: #636e72;
+}
+
+/* Image Styling */
+.image img {
+  width: 420px;
+  max-width: 100%;
+  border-radius: 12px;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+}
+
+/* Buttons Section */
+.app-buttons {
+  margin-top: 30px;
+}
+
+.btn {
+  padding: 12px 28px;
+  margin: 10px 10px 0 0;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: 500;
+  transition: all 0.3s ease;
+}
+
+/* Get Started Button */
+.get-started {
+  background-color: #ff9f43;
+  color: white;
+}
+
+.get-started:hover {
+  background-color: #ffa94d;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(255, 159, 67, 0.4);
+}
+
+/* Learn More Button */
+.learn-more {
+  background-color: #dfe6e9;
+  color: #2d3436;
+}
+
+.learn-more:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+/* Footer Styling */
+footer {
+  padding: 20px;
+  background-color: #1b0035;
+  color: #ccc;
+  text-align: center;
+}
