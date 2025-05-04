@@ -8,7 +8,6 @@ function QuestionsPage() {
   const [allQuestions, setAllQuestions] = useState([]);
   const [filteredQuestions, setFilteredQuestions] = useState([]);
   const [bookmarks, setBookmarks] = useState([]);
-  const [solutionPanel, setSolutionPanel] = useState({ open: false, content: "", loading: false });
   const [dropdownOptions, setDropdownOptions] = useState({
     subjects: ["Physics", "Chemistry", "Maths"],
     sections: [],
@@ -120,16 +119,6 @@ function QuestionsPage() {
     }
   };
 
-  const handleViewSolution = async (question) => {
-    setSolutionPanel({ open: true, content: "", loading: true });
-    try {
-      const res = await axios.post("/api/chat", { question }, { withCredentials: true });
-      setSolutionPanel({ open: true, content: res.data.answer || "No solution found.", loading: false });
-    } catch (err) {
-      setSolutionPanel({ open: true, content: "Error getting solution.", loading: false });
-    }
-  };
-
   useEffect(() => {
     fetchQuestions();
     fetchBookmarks();
@@ -235,7 +224,6 @@ function QuestionsPage() {
                 <span onClick={() => handleBookmark(q._id)} style={{ cursor: "pointer" }}>
                   {bookmarks.includes(q._id) ? <FaStar color="#ffc107" /> : <FaRegStar />}
                 </span>
-                <button onClick={() => handleViewSolution(q.Question)}>View Solution</button>
               </div>
             </div>
           ))
@@ -243,12 +231,6 @@ function QuestionsPage() {
           <p>No questions available</p>
         )}
       </div>
-
-      {solutionPanel.open && (
-        <div className="solution-panel">
-          {solutionPanel.loading ? <p>Loading...</p> : <p>{solutionPanel.content}</p>}
-        </div>
-      )}
     </div>
   );
 }
