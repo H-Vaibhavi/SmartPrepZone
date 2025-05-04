@@ -1,26 +1,77 @@
+/* Container */
 .login-container {
+  min-height: 100vh;
   display: flex;
-  justify-content: center;
-  align-items: flex-start;
-  height: 100vh;
-  padding-top: 50px; /* Increased space below header */
-  background: #f4edea;
-  overflow-y: auto;
+  flex-direction: column;
+  align-items: center;
+  background: transparent;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+/* Header */
+.header {
+  width: 100%;
+  padding: 1rem 2rem;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  background: transparent;
+  position: relative;
+}
+
+.header-content {
+  display: flex;
+  justify-content: flex-end;
+  width: 100%;
+}
+
+/* Profile avatar */
+.avatar-img {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+/* Dropdown Menu */
+.dropdown-menu {
+  position: absolute;
+  top: 70px;
+  right: 2rem;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.1);
+  z-index: 10;
+}
+
+.dropdown-menu button {
+  width: 100%;
+  padding: 10px 15px;
+  background: none;
+  border: none;
+  cursor: pointer;
+  text-align: left;
+}
+
+.dropdown-menu button:hover {
+  background-color: #f0f0f0;
+}
 
 /* Login Box */
 .login-box {
-  background: white;
-  padding: 35px 30px; /* Adjusted padding to equal left and right */
+  background: #ffffff;
+  padding: 2rem 3rem;
   border-radius: 12px;
-  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.15);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  margin-top: 50px;
+  width: 90%;
+  max-width: 400px;
   text-align: center;
-  width: 400px;
-  animation: fadeIn 0.5s ease-in-out;
-  position: relative;
-  margin: 0 auto; /* Center alignment */
-  box-sizing: border-box; /* Ensures padding is included in width */
+}
+
+.login-box h2 {
+  margin-bottom: 0.5rem;
 }
 
 .login-box p span {
@@ -28,47 +79,50 @@
   color: #15062c;
 }
 
-.login-box p{
-  font-size: 15px;
-}
-/* Input Fields */
-.login-box input {
-  width: 100%;
-  padding: 12px;
-  margin-bottom: 16px;
-  border: 1px solid #ccc;
-  border-radius: 5px;
-  font-size: 14px;
-  outline: none;
-  transition: border-color 0.3s;
-  box-sizing: border-box; /* Important to match button */
+/* Input Group */
+.input-group {
+  margin-bottom: 1rem;
 }
 
-/* Login Button */
+.input-group input {
+  width: 100%;
+  padding: 0.75rem;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  font-size: 1rem;
+}
+
+/* Button */
 .login-btn {
   width: 100%;
-  padding: 12px;
+  padding: 0.75rem;
   background-color: #ff9f43;
   color: white;
   border: none;
-  border-radius: 5px;
-  font-size: 16px;
+  font-size: 1rem;
+  border-radius: 8px;
   cursor: pointer;
-  transition: background 0.3s ease, transform 0.3s ease;
-  box-sizing: border-box; /* Matches input width */
+  transition: background-color 0.2s ease-in-out;
 }
 
-.login-btn:hover {  
+.login-btn:hover {
   transform: translateY(-3px);
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
 }
 
-/* signup Link */
+/* Signup Link */
 .signup-link {
-  cursor: pointer;
-  transition: color 0.3s;
+  margin-top: 1rem;
+  font-size: 0.9rem;
 }
-.signup-link span:hover{
-  text-decoration: underline;
-  color: #0056b3;
+
+.signup-link span {
+  color: #007bff;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+.error-message {
+  color: red;
+  margin-bottom: 1rem;
 }

@@ -1,0 +1,96 @@
+/* Profile Page Container */
+.profile-container {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 50px 0;
+  background-color: #f4edea;
+  min-height: 100vh;
+}
+
+/* Profile Card */
+.profile-card {
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+  width: 80%;
+  max-width: 800px;
+  padding: 30px;
+  text-align: center;
+}
+
+/* Profile Image Section */
+.profile-img-section {
+  margin-bottom: 20px;
+}
+
+.profile-img {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 3px solid #ff9f43;
+}
+
+/* User Details Section */
+.profile-details {
+  margin-top: 20px;
+}
+
+.profile-details h2 {
+  font-size: 28px;
+  font-weight: bold;
+  color: #333;
+}
+
+.profile-details p {
+  font-size: 16px;
+  color: #555;
+  margin: 10px 0;
+}
+
+/* Button Styles */
+.profile-actions {
+  margin-top: 30px;
+}
+
+.profile-actions button {
+  background-color: #ff9f43;
+  color: white;
+  padding: 10px 20px;
+  font-size: 16px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.profile-actions button:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.profile-actions .logout-btn {
+  background-color: #ff6f61;
+  margin-top: 15px;
+}
+
+/* Responsive Styles */
+@media screen and (max-width: 768px) {
+  .profile-card {
+    width: 90%;
+    padding: 20px;
+  }
+
+  .profile-details h2 {
+    font-size: 24px;
+  }
+
+  .profile-details p {
+    font-size: 14px;
+  }
+
+  .profile-actions button {
+    padding: 8px 15px;
+  }
+}

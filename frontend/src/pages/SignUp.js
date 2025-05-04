@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import { useNavigate } from "react-router-dom";
+import axios from "axios";
 import "../styles/SignUp.css";
 
 function SignUp() {
@@ -15,14 +16,28 @@ function SignUp() {
     setFormData({ ...formData, [e.target.name]: e.target.value });
   };
 
-  const handleSubmit = (e) => {
+  const handleSubmit = async (e) => {
     e.preventDefault();
+
     if (formData.password !== formData.confirmPassword) {
       alert("Passwords do not match!");
       return;
     }
-    console.log("User Data:", formData);
-    navigate("/dashboard"); // Redirect after signup
+
+    try {
+      const res = await axios.post("http://localhost:5000/api/auth/register", {
+        name: formData.name,
+        email: formData.email,
+        password: formData.password,
+      });
+
+      alert("Registration successful!");
+      console.log("Registered user:", res.data.user);
+      navigate("/login");
+    } catch (error) {
+      alert(error.response?.data?.error || "Registration failed");
+      console.error("Registration error:", error);
+    }
   };
 
   return (

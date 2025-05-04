@@ -21,12 +21,13 @@
 .app-nav {
   display: flex;
   align-items: center;
+  position: relative; /* for dropdown */
 }
 
-/* Removing white box around nav buttons */
+/* Navigation Links */
 .nav-link {
-  background: none;  /* Removes any background */
-  border: none;      /* Removes any border */
+  background: none;
+  border: none;
   color: white;
   font-weight: 500;
   font-size: 16px;
@@ -40,7 +41,7 @@
   transform: scale(1.1);
 }
 
-/* Navigation Buttons (Get Started & Sign Up) */
+/* Buttons (e.g. Get Started, Sign Up) */
 .app-nav .btn {
   background-color: #ff9f43;
   color: white;
@@ -55,4 +56,73 @@
 .app-nav .btn:hover {
   transform: translateY(-3px);
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
+
+/* Profile Dropdown */
+.profile-dropdown {
+  position: relative;
+  margin-left: 20px;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+
+/* Profile Logo */
+.profile-logo {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  cursor: pointer;
+  border: 2px solid white;
+  object-fit: cover; /* Ensures the logo fits well inside the circle */
+}
+
+/* Dropdown Menu */
+.dropdown-menu {
+  position: absolute;
+  top: 50px;
+  right: 0;
+  background-color: white;
+  border: 1px solid #ddd;
+  padding: 10px;
+  width: 150px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  z-index: 100;
+  display: flex;
+  flex-direction: column;
+}
+
+.dropdown-menu button {
+  background: none;
+  border: none;
+  padding: 8px 10px;
+  text-align: left;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+.dropdown-menu button:hover {
+  background-color: #f0f0f0;
+}
+
+/* Responsive Styles */
+@media screen and (max-width: 768px) {
+  .app-header {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .app-nav {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .app-nav .btn,
+  .profile-dropdown {
+    margin-top: 10px;
+  }
+
+  .app-nav .nav-link {
+    margin: 5px 0;
+  }
 }

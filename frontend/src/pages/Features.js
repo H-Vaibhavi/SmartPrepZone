@@ -1,7 +1,7 @@
 import React from "react";
 import Header from "../components/Header";
 import Footer from "../components/Footer";
-import { FaBookOpen, FaUpload, FaSearch, FaTrophy } from "react-icons/fa";
+import { FaBookOpen, FaUpload, FaSearch, FaTrophy, FaRobot, FaUserCog } from "react-icons/fa";
 import "../styles/Feature.css";
 
 function FeaturesPage() {
@@ -23,9 +23,9 @@ function FeaturesPage() {
             </div>
 
             <div className="feature-card">
-              <FaUpload className="feature-icon" />
-              <h3>Easy Uploads</h3>
-              <p>Upload question papers and categorize them with AI.</p>
+              <FaRobot className="feature-icon" />
+              <h3>AI Assistance</h3>
+              <p>Ask any questions and get answers from AI.</p>
             </div>
 
             <div className="feature-card">
@@ -35,14 +35,13 @@ function FeaturesPage() {
             </div>
 
             <div className="feature-card">
-              <FaTrophy className="feature-icon" />
-              <h3>Achievements & Badges</h3>
+              <FaUserCog className="feature-icon" />
+              <h3>Personalized Access</h3>
               <p>Track progress and earn rewards for consistent learning.</p>
             </div>
           </div>
         </main>
       </div>
-
       <Footer />
     </>
   );

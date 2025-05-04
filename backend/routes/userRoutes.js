@@ -20,15 +20,37 @@ router.post("/register", async (req, res) => {
 // Login User
 router.post("/login", async (req, res) => {
   const { email, password } = req.body;
-  const user = await User.findOne({ email });
 
-  if (!user) return res.status(400).json({ message: "User not found" });
+  try {
+    const user = await User.findOne({ email });
 
-  const isMatch = await bcrypt.compare(password, user.password);
-  if (!isMatch) return res.status(400).json({ message: "Invalid credentials" });
+    if (!user) {
+      return res.status(400).json({ message: "User not found" });
+    }
 
-  const token = jwt.sign({ id: user._id }, process.env.JWT_SECRET, { expiresIn: "1h" });
-  res.json({ token });
+    const isMatch = await bcrypt.compare(password, user.password);
+    if (!isMatch) {
+      return res.status(400).json({ message: "Invalid credentials" });
+    }
+
+    const token = jwt.sign({ id: user._id }, process.env.JWT_SECRET, {
+      expiresIn: "1h",
+    });
+
+    // ✅ Return both token and user data
+    res.status(200).json({
+      token,
+      user: {
+        name: user.name,
+        email: user.email,
+        avatar: user.avatar || null, // If avatar is not set, return null
+        _id: user._id, // Optional: include _id if needed on frontend
+      },
+    });
+  } catch (error) {
+    console.error("Login error:", error);
+    res.status(500).json({ message: "Server error" });
+  }
 });
 
 module.exports = router;

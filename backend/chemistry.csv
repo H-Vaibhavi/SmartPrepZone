@@ -1,0 +1,267 @@
+﻿ID,Question,OptionA,OptionB,OptionC,OptionD,Answer,Section,Topic,Difficulty,Date,Shift
+1,What is the bond order of the O2 molecule?,1,2,3,4,B,Physical Chemistry,Molecular Orbital Theory,Hard,15-05-2020,Shift 1
+2,What is the major product of the reaction between 1-butyne and H2 in the presence of a catalyst?,Butane,2-Butene,1-Butene,Butyne,B,Organic Chemistry,Alkenes and Alkynes,Hard,15-05-2020,Shift 1
+3,What is the pH of pure water at 25 Degree Celcius?,7,0,14,10,A,Physical Chemistry,Acids & Bases,Easy,15-05-2020,Shift 1
+4,Which of the following compounds has the highest boiling point?,CH3OH,C2H5OH,C3H7OH,C4H9OH,D,Organic Chemistry,Alcohols & Phenols,Hard,16-05-2020,Shift 2
+5,Calculate the degree of unsaturation in C8H10.,3,4,5,6,B,Organic Chemistry,Hydrocarbons,Hard,16-05-2020,Shift 2
+6,Which of the following is a strong acid?,HCl,CH3COOH,H2CO3,NH3,A,Inorganic Chemistry,Acids & Bases,Easy,16-05-2020,Shift 2
+7,What is the hybridization of the central atom in SF4?,sp,sp2,sp3,sp3d,D,Inorganic Chemistry,Chemical Bonding,Hard,17-05-2020,Shift 1
+8,What is the IUPAC name of the compound with the formula C5H10O?,Pentanal,2-Pentanone,3-Pentanone,1-Pentanol,B,Organic Chemistry,Functional Groups,Hard,17-05-2020,Shift 1
+9,What is the molecular formula of glucose?,C6H12O6,C5H10O5,C6H10O5,C6H12O5,A,Organic Chemistry,Carbohydrates,Easy,17-05-2020,Shift 1
+10,Which of the following is a characteristic of transition metals?,High electronegativity,Variable oxidation states,Low melting points,All of the above,B,Inorganic Chemistry,d-Block Elements,Hard,18-05-2020,Shift 2
+11,Which gas is produced during the electrolysis of water?,Oxygen,Hydrogen,Nitrogen,Carbon dioxide,B,Physical Chemistry,Electrochemistry,Easy,18-05-2020,Shift 2
+12,Which of the following compounds can undergo hydrogenation?,Benzene,Cyclohexene,Both A and B,Neither A nor B,C,Organic Chemistry,Aromatic Compounds,Hard,18-05-2020,Shift 2
+13,What is the main product of the reaction between an alcohol and an acid?,Ester,Ether,Aldehyde,Ketone,A,Organic Chemistry,Alcohols & Phenols,Medium,19-05-2020,Shift 1
+14,What is the product of the reaction between an alcohol and a carboxylic acid?,Ester,Ether,Aldehyde,Ketone,A,Organic Chemistry,Alcohols & Phenols,Hard,19-05-2020,Shift 1
+15,What is the coordination number of the central atom in [Co(NH3)6]Cl3?,4,6,8,2,B,Inorganic Chemistry,Coordination Compounds,Hard,19-05-2020,Shift 1
+16,Which of the following is a characteristic of ionic compounds?,High melting point,Low solubility,Poor conductivity,Low boiling point,A,Inorganic Chemistry,Chemical Bonding,Medium,20-05-2020,Shift 2
+17,What is the mechanism of the reaction between an alkene and HBr?,Electrophilic addition,Nucleophilic substitution,Free radical substitution,Elimination,A,Organic Chemistry,Alkenes and Alkynes,Hard,20-05-2020,Shift 2
+18,Which of the following is a Lewis base?,BF3,H2O,CO2,SO2,B,Inorganic Chemistry,Acid-Base Chemistry,Hard,20-05-2020,Shift 2
+19,What is the oxidation state of nitrogen in NH4+?,-3,3,5,0,A,Inorganic Chemistry,Redox Reactions,Easy,21-05-2020,Shift 1
+20,What is the major product of the reaction of benzene with CH3Cl in the presence of AlCl3?,Toluene,Chlorobenzene,Benzyl chloride,Ethylbenzene,A,Organic Chemistry,Aromatic Compounds,Hard,21-05-2020,Shift 1
+21,What is the oxidation state of chromium in K2Cr2O7?,2,3,6,7,C,Inorganic Chemistry,Redox Reactions,Hard,21-05-2020,Shift 1
+22,Which of the following is a saturated hydrocarbon?,Ethylene,Ethane,Acetylene,Benzene,B,Organic Chemistry,Hydrocarbons,Easy,22-05-2020,Shift 2
+23,Which of the following is a characteristic of aromatic compounds?,Non-planar structure,High reactivity,Delocalized,All of the above,C,Organic Chemistry,Aromaticity,Hard,22-05-2020,Shift 2
+24,Which of the following compounds is an example of a chelating agent?,EDTA,NaCl,HCl,KBr,A,Inorganic Chemistry,Coordination Chemistry,Hard,22-05-2020,Shift 2
+25,What is the main product of the reaction between benzene and nitric acid?,Nitrobenzene,Benzene,Aniline,Toluene,A,Organic Chemistry,Aromatic Compounds,Hard,23-05-2020,Shift 1
+26,What is the product of the reaction between an aldehyde and a primary amine?,Imine,Enamine,Amide,Alcohol,A,Organic Chemistry,Aldehydes & Ketones,Hard,23-05-2020,Shift 1
+27,What is the primary use of sulfuric acid?,Fertilizers,Detergents,Food preservation,Cleaning agents,A,Inorganic Chemistry,Industrial Chemistry,Medium,23-05-2020,Shift 1
+28,Which of the following is a characteristic of amphoteric oxides?,Reacts with acids only,Reacts with bases only,Reacts with both acids and bases,Does not react with either,C,Inorganic Chemistry,Oxides,Hard,24-05-2020,Shift 2
+29,What is the hybridization of the carbon atom in ethylene (C2H4)?,sp,sp2,sp3,sp3d,B,Organic Chemistry,Chemical Bonding,Hard,24-05-2020,Shift 2
+30,Which of the following is a property of metals?,Brittle,Ductile,Poor conductor,Low density,B,Inorganic Chemistry,Metals,Easy,24-05-2020,Shift 2
+31,What is the major product when 1-butyne reacts with H2 in the presence of a catalyst?,Butane,2-Butene,1-Butene,Butyne,B,Organic Chemistry,Alkenes and Alkynes,Hard,25-05-2020,Shift 1
+32,What is the main product of the reaction between phenol and bromine?,Bromophenol,Phenyl bromide,"2,4,6-Tribromophenol",No reaction,C,Organic Chemistry,Aromatic Compounds,Hard,25-05-2020,Shift 1
+33,What is the main component of natural gas?,Ethylene,Methane,Propane,Butane,B,Organic Chemistry,Hydrocarbons,Easy,25-05-2020,Shift 1
+34,Which of the following is a characteristic of a strong base?,Low pH,High pH,Neutral pH,All of the above,B,Inorganic Chemistry,Acids & Bases,Hard,26-05-2020,Shift 2
+35,What is the mechanism of the reaction between an alkyl halide and a nucleophile?,SN1,SN2,E1,E2,B,Organic Chemistry,Reaction Mechanisms,Hard,26-05-2020,Shift 2
+36,Which of the following is a non-metal?,Sodium,Chlorine,Iron,Copper,B,Inorganic Chemistry,Periodic Table,Easy,26-05-2020,Shift 2
+37,What is the main product of the reaction between an alkene and HBr?,Alkane,Alkyl bromide,Alcohol,Ether,B,Organic Chemistry,Alkenes and Alkynes,Medium,27-05-2020,Shift 1
+38,What is the hybridization of the central atom in PCl5?,sp2,sp3,sp3d,sp3d2,C,Inorganic Chemistry,Chemical Bonding,Hard,27-05-2020,Shift 1
+39,What is the product of the reaction between an alcohol and an acid chloride?,Ester,Ether,Aldehyde,Ketone,A,Organic Chemistry,Alcohols & Phenols,Hard,27-05-2020,Shift 1
+40,What is the IUPAC name of the compound with the formula C4H8?,Butene,2-Butene,Butyne,1-Butanol,B,Organic Chemistry,Hydrocarbons,Hard,28-05-2020,Shift 2
+41,Which of the following is a property of acids?,Bitter taste,Slippery feel,Sour taste,Oily feel,C,Inorganic Chemistry,Acids & Bases,Easy,28-05-2020,Shift 2
+42,Which of the following is a property of a good oxidizing agent?,High electronegativity,Low oxidation state,High ionization energy,All of the above,A,Inorganic Chemistry,Redox Reactions,Hard,28-05-2020,Shift 2
+43,What is the main use of sodium bicarbonate?,Baking,Cleaning,Fuel,Fertilizer,A,Inorganic Chemistry,Industrial Chemistry,Easy,29-05-2020,Shift 1
+44,What is the major product of the reaction between 2-butanol and H2SO4?,Butene,Butane,2-Butene,No reaction,C,Organic Chemistry,Alcohols & Phenols,Hard,29-05-2020,Shift 1
+45,What is the main product of the reaction between an alkene and H2O in the presence of H2SO4?,Alcohol,Ether,Alkane,Aldehyde,A,Organic Chemistry,Alkenes and Alkynes,Hard,29-05-2020,Shift 1
+46,Which of the following is a characteristic of covalent compounds?,High melting point,Low boiling point,High conductivity,Soluble in water,B,Inorganic Chemistry,Chemical Bonding,Medium,30-05-2020,Shift 2
+47,What is the product of the reaction between an alkene and KMnO4?,Alcohol,Ketone,Carboxylic acid,Aldehyde,A,Organic Chemistry,Alkenes and Alkynes,Hard,30-05-2020,Shift 2
+48,Which of the following is a characteristic of a molecular solid?,High melting point,Low melting point,High conductivity,All of the above,B,Inorganic Chemistry,Solid State,Hard,30-05-2020,Shift 2
+49,What is the bond angle in a tetrahedral molecule?,900,120ｰ,109.5ｰ,180ｰ,C,Inorganic Chemistry,Chemical Bonding,Hard,31-05-2020,Shift 1
+50,What is the main product of the reaction between an acid and a base?,Salt,Water,Hydrogen gas,Both A and B,D,Inorganic Chemistry,Acids & Bases,Easy,31-05-2020,Shift 1
+51,What is the product of the reaction between an alcohol and a ketone?,Ether,Aldehyde,Ketone,No reaction,D,Organic Chemistry,Alcohols & Phenols,Hard,31-05-2020,Shift 1
+52,What is the major product of the reaction between 1-pentene and HBr?,2-Pentene,1-Bromopentane,2-Bromopentane,No reaction,C,Organic Chemistry,Alkenes and Alkynes,Hard,01-06-2020,Shift 2
+53,Which of the following is a property of bases?,Sour taste,Slippery feel,Corrosive,All of the above,B,Inorganic Chemistry,Acids & Bases,Medium,01-06-2020,Shift 2
+54,Which of the following is a property of a strong acid?,High pH,Low pH,Neutral pH,All of the above,B,Inorganic Chemistry,Acids & Bases,Hard,01-06-2020,Shift 2
+55,What is the main product of the reaction between an alcohol and a carboxylic acid?,Ester,Ether,Aldehyde,Ketone,A,Organic Chemistry,Alcohols & Phenols,Hard,02-06-2020,Shift 1
+56,What is the main component of vinegar?,Acetic acid,Citric acid,Lactic acid,Formic acid,A,Organic Chemistry,Acids & Bases,Easy,02-06-2020,Shift 1
+57,Which of the following is a characteristic of a Lewis acid?,Electron donor,Electron acceptor,Proton donor,All of the above,B,Inorganic Chemistry,Acid-Base Chemistry,Hard,03-06-2020,Shift 2
+58,Which of the following is a characteristic of noble gases?,High reactivity,Low boiling point,Low density,All of the above,C,Inorganic Chemistry,Periodic Table,Easy,03-06-2020,Shift 2
+59,What is the oxidation state of manganese in KMnO4?,2,4,6,7,D,Inorganic Chemistry,Redox Reactions,Hard,15-05-2021,Shift 1
+60,What is the oxidation state of sulfur in H2SO4?,2,4,6,8,C,Inorganic Chemistry,Redox Reactions,Hard,15-05-2021,Shift 1
+61,Which of the following is a characteristic of metals?,Dull appearance,Poor conductor,Malleable,Brittle,C,Inorganic Chemistry,Metals,Easy,16-05-2021,Shift 2
+62,Which of the following is a property of transition metals?,High melting point,Low density,Fixed oxidation states,All of the above,A,Inorganic Chemistry,d-Block Elements,Hard,16-05-2021,Shift 2
+63,What is the hybridization of the central atom in XeF4?,sp2,sp3,sp3d,sp3d2,D,Inorganic Chemistry,Chemical Bonding,Hard,17-05-2021,Shift 1
+64,What is the oxidation state of chlorine in NaCl?,-1,1,0,3,A,Inorganic Chemistry,Redox Reactions,Easy,17-05-2021,Shift 1
+65,Which of the following is a characteristic of a strong electrolyte?,Low conductivity,High conductivity,Neutral pH,All of the above,B,Physical Chemistry,Electrolytes,Hard,18-05-2021,Shift 2
+66,What is the hybridization of the central atom in SF6?,sp2,sp3,sp3d,sp3d2,C,Inorganic Chemistry,Chemical Bonding,Hard,18-05-2021,Shift 2
+67,What is the molecular formula of ethanol?,C2H4O,C2H6O,C2H5OH,C2H2O,C,Organic Chemistry,Alcohols & Phenols,Easy,19-05-2021,Shift 1
+68,What is the main product of the reaction between Na and Cl2?,NaCl,NaCl2,Na2Cl,Na2Cl3,A,Inorganic Chemistry,Redox Reactions,Hard,19-05-2021,Shift 1
+69,Which gas is produced during the reaction of an acid with a metal?,Oxygen,Hydrogen,Nitrogen,Carbon dioxide,B,Inorganic Chemistry,Acid-Base Reactions,Easy,20-05-2021,Shift 2
+70,Which of the following is a property of a covalent compound?,High melting point,Low boiling point,High conductivity,All of the above,B,Inorganic Chemistry,Chemical Bonding,Hard,20-05-2021,Shift 2
+71,What is the main component of air?,Oxygen,Nitrogen,Carbon dioxide,Argon,B,Physical Chemistry,Gases,Easy,21-05-2021,Shift 1
+72,What is the bond order of the N2 molecule?,1,2,3,4,C,Physical Chemistry,Molecular Orbital Theory,Hard,21-05-2021,Shift 1
+73,Which of the following is a Lewis acid?,BF3,H2O,NH3,CH4,A,Inorganic Chemistry,Acid-Base Chemistry,Hard,21-05-2021,Shift 1
+74,What is the main product of the reaction between an alkali metal and water?,Metal hydroxide,Hydrogen gas,Both A and B,Neither A nor B,C,Inorganic Chemistry,Acid-Base Reactions,Hard,22-05-2021,Shift 2
+75,Which of the following is a characteristic of a strong reducing agent?,High electronegativity,Low oxidation state,High ionization energy,All of the above,B,Inorganic Chemistry,Redox Reactions,Hard,22-05-2021,Shift 2
+76,What is the coordination number of the central atom in [Ni(CN)4],4,6,2,8,A,Inorganic Chemistry,Coordination Compounds,Hard,23-05-2021,Shift 1
+77,What is the main product of the reaction between an alcohol and an acid chloride?,Ester,Ether,Aldehyde,Ketone,A,Organic Chemistry,Alcohols & Phenols,Hard,23-05-2021,Shift 1
+78,What is the primary use of hydrochloric acid?,Cleaning,Fertilizers,Food preservation,Detergents,A,Inorganic Chemistry,Industrial Chemistry,Medium,23-05-2021,Shift 1
+79,What is the main product of the reaction between an alkene and water?,Alcohol,Alkane,Alkyl halide,Ether,A,Organic Chemistry,Alkenes and Alkynes,Medium,25-05-2021,Shift 1
+80,What is the main product of the reaction between sulfuric acid and sodium bicarbonate?,Sodium sulfate,Carbon dioxide,Water,All of the above,D,Inorganic Chemistry,Acid-Base Reactions,Hard,25-05-2021,Shift 1
+81,What is the bond angle in a trigonal planar molecule?,90ｰ,120ｰ,109.5ｰ,180ｰ,B,Inorganic Chemistry,Chemical Bonding,Hard,25-05-2021,Shift 1
+82,What is the main product of the reaction between an alkene and water in the presence of H2SO4?,Alcohol,Ether,Alkane,Aldehyde,A,Organic Chemistry,Alkenes and Alkynes,Hard,26-05-2021,Shift 2
+83,What is the oxidation state of iron in Fe2O3?,2,3,4,6,B,Inorganic Chemistry,Redox Reactions,Hard,26-05-2021,Shift 2
+84,What is the main component of baking soda?,Sodium bicarbonate,Sodium chloride,Sodium sulfate,Sodium carbonate,A,Inorganic Chemistry,Industrial Chemistry,Easy,27-05-2021,Shift 1
+85,Which of the following is a property of a Lewis acid?,Electron donor,Electron acceptor,Proton donor,All of the above,B,Inorganic Chemistry,Acid-Base Chemistry,Hard,27-05-2021,Shift 1
+86,What is the main product of the reaction between aluminum and hydrochloric acid?,Aluminum chloride,Hydrogen gas,Both A and B,Neither A nor B,C,Inorganic Chemistry,Acid-Base Reactions,Hard,28-05-2021,Shift 2
+87,What is the hybridization of the central atom in [Cu(NH3)4],sp2,sp3,sp3d,sp3d2,B,Inorganic Chemistry,Coordination Compounds,Hard,29-05-2021,Shift 1
+88,What is the main product of the reaction between an acid and a carbonate?,Salt,Water,Carbon dioxide,Both A and B,D,Inorganic Chemistry,Acids & Bases,Easy,29-05-2021,Shift 1
+89,What is the main use of sodium hydroxide?,Cleaning,Food preservation,Fertilizers,Detergents,A,Inorganic Chemistry,Industrial Chemistry,Medium,31-05-2021,Shift 1
+90,Which of the following is a characteristic of acids?,Bitter taste,Sour taste,Slippery feel,Oily feel,B,Inorganic Chemistry,Acids & Bases,Easy,03-06-2021,Shift 2
+91,Which of the following is NOT a colligative property?,Boiling point elevation,Freezing point depression,Vapor pressure lowering,Molecular weight,D,Physical Chemistry,Solutions,Medium,03-05-2022,Shift 1
+92,Which of the following elements has the highest electron affinity?,Fluorine,Chlorine,Bromine,Iodine,B,Inorganic Chemistry,Periodic Table,Medium,09-05-2022,Shift 1
+93,Which law of thermodynamics states that energy cannot be created or destroyed?,First Law,Second Law,Third Law,Zeroth Law,A,Physical Chemistry,Thermodynamics,Easy,10-05-2022,Shift 1
+94,Which element is present in vitamin B12?,Iron,Cobalt,Zinc,Magnesium,B,Inorganic Chemistry,Biomolecules,Medium,10-05-2022,Shift 2
+95,Which of the following has the lowest pKa value?,Acetic acid,Benzoic acid,Formic acid,Phenol,C,Organic Chemistry,Acid-Base Chemistry,Medium,11-05-2022,Shift 2
+96,The rate of a chemical reaction doubles when the temperature is increased from 300 K to 310 K. What is the approximate activation energy of the reaction?,50 kJ/mol,35 kJ/mol,44 kJ/mol,28 kJ/mol,C,Physical Chemistry,Chemical Kinetics,Medium,12-05-2022,Shift 2
+97,Which of the following has the highest ionic character?,HF,HCl,HBr,HI,A,Inorganic Chemistry,Chemical Bonding,Medium,12-05-2022,Shift 2
+98,Which metal is extracted by electrolysis of its molten ore?,Iron,Copper,Aluminum,Silver,C,Inorganic Chemistry,Metallurgy,Easy,12-05-2022,Shift 2
+99,Which of the following is the correct expression for the Nernst equation?,E = Eｰ - (RT/nF) ln(Q),E = Eｰ + (RT/nF) ln(Q),E = Eｰ - (nF/RT) ln(Q),E = Eｰ + (nF/RT) ln(Q),A,Physical Chemistry,Electrochemistry,Medium,14-05-2022,Shift 1
+100,What is the van der Waals equation for real gases?,PV = nRT,(P + (a/V2)) (V - nb) = nRT,PV = nRT + a(n/V)?,PV = nRT - nb,B,Physical Chemistry,Gaseous State,Hard,15-05-2022,Shift 1
+101,Calculate the pH of a 0.01 M HCl solution.,1,2,3,4,A,Physical Chemistry,Acids & Bases,Hard,15-05-2022,Shift 1
+102,Calculate the pH of a 0.01 M NaOH solution.,12,13,14,11,B,Physical Chemistry,Acids & Bases,Hard,15-05-2022,Shift 1
+103,What is the molarity of a solution containing 10 g of KCl in 500 mL of solution?,0.25 M,0.5 M,1.0 M,1.5 M,A,Physical Chemistry,Solutions,Hard,16-05-2022,Shift 2
+104,What is the enthalpy change for the reaction at constant pressure?,ΔH = ΔU + PΔV,ΔH = ΔU - PΔV,ΔH = ΔU,ΔH = ΔU + ΔS,A,Physical Chemistry,Thermodynamics,Hard,16-05-2022,Shift 2
+105,"In a face-centered cubic (FCC) lattice, what is the coordination number of each atom?",6,8,12,14,C,Inorganic Chemistry,Solid State,Medium,16-05-2022,Shift 2
+106,What is the molarity of a solution containing 5 g of NaCl in 500 mL of solution?,0.17 M,0.25 M,0.50 M,0.75 M,B,Physical Chemistry,Solutions,Hard,16-05-2022,Shift 2
+107,Which of the following is a colligative property?,Boiling point elevation,Freezing point depression,Osmotic pressure,All of the above,D,Physical Chemistry,Colligative Properties,Hard,17-05-2022,Shift 1
+108,Calculate the enthalpy change (ΔH) for the reaction: 2H2(g) + O2(g) -> 2H2O(g) given that ΔHf for H2O is -241.8 kJ/mol.,-483.6 kJ,-241.8 kJ,0 kJ,+241.8 kJ,A,Physical Chemistry,Thermodynamics,Hard,17-05-2022,Shift 1
+109,Calculate the enthalpy change (ΔH) for the reaction: N2(g) + 3H2(g) -> 2NH3(g) given that ΔHf for NH3 is -45.9 kJ/mol.,-91.8 kJ,-45.9 kJ,0 kJ,+45.9 kJ,A,Physical Chemistry,Thermodynamics,Hard,17-05-2022,Shift 1
+110,What is the relationship between Gibbs free energy and spontaneity?,?G < 0 indicates spontaneity,?G > 0 indicates spontaneity,?G = 0 indicates spontaneity,All of the above,A,Physical Chemistry,Thermodynamics,Hard,18-05-2022,Shift 2
+111,Which colligative property is used to determine the molar mass of a solute by measuring the freezing point depression of a solution?,Boiling point elevation,Osmotic pressure,Vapor pressure lowering,Freezing point depression,D,Physical Chemistry,Solutions,Medium,18-05-2022,Shift 1
+112,What is the rate constant (k) for a first-order reaction if the half-life (t1/2) is 10 minutes?,0.0693 min-1,0.1 min-1,0.693min-1,0.5 min-1,A,Physical Chemistry,Chemical Kinetics,Hard,18-05-2022,Shift 2
+113,What is the rate constant (k) for a second-order reaction if the half-life (t1/2) is 5 minutes?,0.1 min-1,0.2 min-1,0.5 min-1,1.0 min-1,B,Physical Chemistry,Chemical Kinetics,Hard,18-05-2022,Shift 2
+114,What is the unit of the rate constant for a second-order reaction?,mol/L.s,L2/mol.s,L/mol.s,s-1,B,Physical Chemistry,Chemical Kinetics,Hard,19-05-2022,Shift 1
+115,Calculate the freezing point depression (ΔTf) for a solution of 2 moles of NaCl in 1 kg of water (Kf for water = 1.86 ｰC kg/mol).,3.72 0C,2.79 0C,1.86 0C,4.32 0C,A,Physical Chemistry,Solutions,Hard,19-05-2022,Shift 1
+116,Calculate the freezing point depression (ΔTf) for a solution of 1.5 moles of NaCl in 1 kg of water (Kf for water = 1.86 ｰC kg/mol).,2.79 0C,3.72 0C,1.86 0C,4.32 0C,B,Physical Chemistry,Solutions,Hard,19-05-2022,Shift 1
+117,What is the vapor pressure of a solution containing 10 g of glucose in 100 g of water at 25 0C (Vapor pressure of pure water = 23.76 mmHg)?,22.5 mmHg,20.0 mmHg,21.5 mmHg,23.0 mmHg,A,Physical Chemistry,Solutions,Hard,20-05-2022,Shift 2
+118,What is the vapor pressure of a solution containing 20 g of glucose in 200 g of water at 25 0C (Vapor pressure of pure water = 23.76 mmHg)?,22.5 mmHg,20.0 mmHg,21.5 mmHg,23.0 mmHg,A,Physical Chemistry,Solutions,Hard,20-05-2022,Shift 2
+119,Which element has the highest electronegativity?,Oxygen,Fluorine,Chlorine,Nitrogen,B,Inorganic Chemistry,Periodic Table,Easy,20-05-2022,Shift 1
+120,What is the effect of temperature on the rate of a chemical reaction?,Increases rate,Decreases rate,No effect,Depends on the reaction,A,Physical Chemistry,Chemical Kinetics,Hard,20-05-2022,Shift 2
+121,"Calculate the equilibrium constant (Kc) for the reaction: 2NO(g) + O2(g) -> 2NO2(g) if the concentrations at equilibrium are [NO] = 0.5 M, [O2] = 0.2 M, and [NO2] = 0.8 M.",4,8,2,1,A,Physical Chemistry,Chemical Equilibrium,Hard,21-05-2022,Shift 1
+122,What is the principle behind the Nernst equation?,Concentration affects potential,Temperature affects potential,Pressure affects potential,All of the above,A,Physical Chemistry,Electrochemistry,Hard,21-05-2022,Shift 1
+123,"Calculate the equilibrium constant (Kc) for the reaction: 2SO2(g) + O2(g) ? 2SO3(g) if the concentrations at equilibrium are [SO2] = 0.5 M, [O2] = 0.2 M, and [SO3] = 0.8 M.",4,8,2,1,A,Physical Chemistry,Chemical Equilibrium,Hard,21-05-2022,Shift 1
+124,What is the pH of a 0.1 M solution of NaOH?,10,11,12,13,D,Physical Chemistry,Acids & Bases,Hard,22-05-2022,Shift 2
+125,What is the shape of the methane (CH4) molecule according to the VSEPR theory?,Linear,Trigonal planar,Tetrahedral,Bent,C,Inorganic Chemistry,Chemical Bonding,Easy,22-05-2022,Shift 2
+126,What is the relationship between entropy and disorder?,ΔS = ΔH/T,ΔS = k ln(W),ΔS = Q/T,ΔS = PΔV,B,Physical Chemistry,Thermodynamics,Hard,22-05-2022,Shift 2
+127,What is the pH of a 0.1 M solution of KOH?,10,11,12,13,D,Physical Chemistry,Acids & Bases,Hard,22-05-2022,Shift 2
+128,Calculate the molar mass of a gas if 1 g of the gas occupies 0.5 L at 1 atm and 273 K.,22.4 g/mol,44.8 g/mol,11.2 g/mol,5.6 g/mol,B,Physical Chemistry,Gaseous State,Hard,23-05-2022,Shift 1
+129,What is the critical temperature of a substance?,Temperature above which gas cannot be liquefied,Temperature below which gas cannot be liquefied,Temperature at which solid melts,Temperature at which liquid boils,A,Physical Chemistry,Gaseous State,Hard,23-05-2022,Shift 1
+130,Calculate the molar mass of a gas if 0.5 g of the gas occupies 0.25 L at 1 atm and 273 K.,22.4 g/mol,44.8 g/mol,11.2 g/mol,5.6 g/mol,B,Physical Chemistry,Gaseous State,Hard,23-05-2022,Shift 1
+131,What is the effect of a catalyst on a chemical reaction?,Increases activation energy,Decreases activation energy,No effect on activation energy,Changes the equilibrium constant,B,Physical Chemistry,Chemical Kinetics,Hard,24-05-2022,Shift 2
+132,What is the change in internal energy (ΔU) for a system that absorbs 100 J of heat and does 40 J of work on the surroundings?,60 J,140 J,-60 J,-140 J,A,Physical Chemistry,Thermodynamics,Hard,24-05-2022,Shift 2
+133,What is the oxidation state of cobalt in [Co(NH3)6]ｳ??,2,3,1,0,B,Inorganic Chemistry,Coordination Compounds,Medium,24-05-2022,Shift 1
+134,What is the change in internal energy (ΔU) for a system that absorbs 150 J of heat and does 50 J of work on the surroundings?,100 J,200 J,-100 J,-200 J,A,Physical Chemistry,Thermodynamics,Hard,24-05-2022,Shift 2
+135,What is the relationship between pressure and volume in Boyle's Law?,PV = constant,P + V = constant,P/V = constant,P - V = constant,A,Physical Chemistry,Gaseous State,Hard,25-05-2022,Shift 1
+136,Calculate the standard Gibbs free energy change (ΔGｰ) at 298 K for the reaction: A -> B if K = 10.,-5.69 kJ/mol,5.69 kJ/mol,0 kJ/mol,-2.30 kJ/mol,A,Physical Chemistry,Thermodynamics,Hard,25-05-2022,Shift 1
+137,Calculate the standard Gibbs free energy change (ΔGｰ) at 298 K for the reaction: A -> B if K = 5.,-1.61 kJ/mol,1.61 kJ/mol,0 kJ/mol,-2.30 kJ/mol,A,Physical Chemistry,Thermodynamics,Hard,25-05-2022,Shift 1
+138,What is the heat of reaction (ΔH) for the combustion of 1 mole of propane (C3H8) if the enthalpy of formation of CO2 and H2O are -393.5 kJ/mol and -241.8 kJ/mol respectively?,-2200 kJ,-2000 kJ,-1800 kJ,-1600 kJ,A,Physical Chemistry,Thermodynamics,Hard,26-05-2022,Shift 2
+139,What is the standard enthalpy of formation?,ΔHf = ΔHproducts - ΔHreactants,ΔHf = ΔHreactants - ΔHproducts,ΔHf = ΔHproducts +ΔHreactants,ΔHf =ΔHproducts / ΔHreactants,A,Physical Chemistry,Thermodynamics,Hard,26-05-2022,Shift 2
+140,Which of the following oxides is amphoteric in nature?,CO2,Na2O,Al2O3,SO3,C,Inorganic Chemistry,p-Block Elements,Medium,26-05-2022,Shift 2
+141,What is the heat of reaction (ΔH) for the combustion of 1 mole of methane (CH4) if the enthalpy of formation of CO2 and H2O are -393.5 kJ/mol and -241.8 kJ/mol respectively?,-890 kJ,-800 kJ,-700 kJ,-600 kJ,A,Physical Chemistry,Thermodynamics,Hard,26-05-2022,Shift 2
+142,What is the relationship between temperature and kinetic energy?,KE = 1/2 mv2,KE = 3/2 kT,KE = mv,KE = 1/2 kT2,B,Physical Chemistry,Kinetic Theory,Hard,27-05-2022,Shift 1
+143,Calculate the concentration of H+ ions in a solution with a pH of 3.,0.001 M,0.01 M,0.1 M,1 M,A,Physical Chemistry,Acids & Bases,Hard,27-05-2022,Shift 1
+144,Calculate the concentration of H+ ions in a solution with a pH of 2.,0.01 M,0.1 M,1 M,0.001 M,A,Physical Chemistry,Acids & Bases,Hard,27-05-2022,Shift 1
+145,What is the effect of dilution on the freezing point of a solution?,Freezing point increases,Freezing point decreases,No effect,Depends on solute,B,Physical Chemistry,Solutions,Hard,28-05-2022,Shift 2
+146,What is the molality of a solution containing 15 g of NaCl in 300 g of water?,0.5 m,1.0 m,1.5 m,2.0 m,B,Physical Chemistry,Solutions,Hard,28-05-2022,Shift 2
+147,What is the molality of a solution containing 10 g of NaCl in 200 g of water?,0.5 m,1.0 m,1.5 m,2.0 m,B,Physical Chemistry,Solutions,Hard,28-05-2022,Shift 2
+148,Which transition metal ion is colorless in aqueous solution?,Fe2+,Cu2+,Zn2+,Co2+,C,Inorganic Chemistry,d-Block Elements,Medium,28-05-2022,Shift 1
+149,Calculate the change in entropy (ΔS) for a process where 100 J of heat is absorbed at a constant temperature of 298 K.,0.33 J/K,0.25 J/K,0.50 J/K,0.75 J/K,A,Physical Chemistry,Thermodynamics,Hard,29-05-2022,Shift 1
+150,What is the relationship between the rate of a reaction and concentration?,Directly proportional,Inversely proportional,No relationship,Exponential,A,Physical Chemistry,Chemical Kinetics,Hard,29-05-2022,Shift 1
+151,Calculate the change in entropy (ΔS) for a process where 200 J of heat is absorbed at a constant temperature of 298 K.,0.67 J/K,0.50 J/K,0.75 J/K,0.80 J/K,A,Physical Chemistry,Thermodynamics,Hard,29-05-2022,Shift 1
+152,What is the significance of the Arrhenius equation?,Relates temperature to reaction rate,Relates pressure to reaction rate,Relates concentration to reaction rate,Relates volume to reaction rate,A,Physical Chemistry,Chemical Kinetics,Hard,30-05-2022,Shift 2
+153,"What is the equilibrium constant (Kp) for the reaction: N2(g) + 3H2(g) -> 2NH3(g) if the partial pressures at equilibrium are P(N2) = 0.5 atm, P(H2) = 1.5 atm, and P(NH3) = 2.0 atm?",0.25,0.5,1,2,C,Physical Chemistry,Chemical Equilibrium,Hard,30-05-2022,Shift 2
+154,"Calculate the heat released when 2 moles of water are formed from the reaction of hydrogen and oxygen, given ?Hf for water is -285.8 kJ/mol.",-571.6 kJ,-285.8 kJ,-142.9 kJ,-1000 kJ,A,Physical Chemistry,Thermodynamics,Hard,31-05-2022,Shift 1
+155,"Calculate the heat released when 3 moles of water are formed from the reaction of hydrogen and oxygen, given ?Hf for water is -285.8 kJ/mol.",-857.4 kJ,-285.8 kJ,-428.7 kJ,-1000 kJ,A,Physical Chemistry,Thermodynamics,Hard,31-05-2022,Shift 1
+156,What is the effect of increasing temperature on the equilibrium constant?,Increases K,Decreases K,No effect,Depends on reaction,A,Physical Chemistry,Chemical Equilibrium,Hard,31-05-2022,Shift 1
+157,What is the relationship between enthalpy and internal energy?,ΔH = ΔU + PΔV,ΔH = ΔU - PΔV,ΔH = ΔU,ΔH = ΔU + ΔS,A,Physical Chemistry,Thermodynamics,Hard,01-06-2022,Shift 2
+158,What is the standard enthalpy change (ΔHｰ) for the reaction: C + O2 -> CO2 if the enthalpy of formation of CO2 is -393.5 kJ/mol?,-393.5 kJ,393.5 kJ,0 kJ,-285.8 kJ,A,Physical Chemistry,Thermodynamics,Hard,01-06-2022,Shift 2
+159,What is the product of the reaction between 2-pentanol and H2SO4?,2-Pentene,1-Pentene,3-Pentene,No reaction,A,Organic Chemistry,Alcohols & Phenols,Hard,01-06-2022,Shift 1
+160,What is the significance of the Gibbs-Helmholtz equation?,Relates ΔG to ΔH and T,Relates ΔG to ΔS and T,Relates ΔH to T and S,All of the above,A,Physical Chemistry,Thermodynamics,Hard,02-06-2022,Shift 1
+161,What is the major product of the reaction between benzaldehyde and an amine?,Imine,Enamine,Amide,Alcohol,A,Organic Chemistry,Aldehydes & Ketones,Hard,02-06-2022,Shift 2
+162,What is the effect of pressure on the solubility of gases in liquids?,Increases solubility,Decreases solubility,No effect,Depends on temperature,A,Physical Chemistry,Solutions,Hard,03-06-2022,Shift 2
+163,Calculate the degree of unsaturation in C9H10.,4,5,6,7,B,Organic Chemistry,Hydrocarbons,Hard,03-06-2022,Shift 1
+164,What is the IUPAC name of the compound with the formula C6H12O?,Hexanal,2-Hexanol,3-Hexanol,1-Hexanol,B,Organic Chemistry,Functional Groups,Hard,04-06-2022,Shift 2
+165,Which of the following compounds can undergo electrophilic substitution?,Toluene,Cyclohexane,Both A and B,Neither A nor B,A,Organic Chemistry,Aromatic Compounds,Hard,05-06-2022,Shift 1
+166,What is the mechanism of the reaction between an alkene and H2 in the presence of a catalyst?,Hydrogenation,Electrophilic addition,Nucleophilic substitution,Elimination,A,Organic Chemistry,Alkenes and Alkynes,Hard,06-06-2022,Shift 2
+167,What is the major product of the reaction between 1-hexene and HBr?,1-Bromohexane,2-Bromohexane,3-Bromohexane,No reaction,B,Organic Chemistry,Alkenes and Alkynes,Hard,07-06-2022,Shift 1
+168,What is the product of the reaction between an alcohol and a carboxylic acid in the presence of an acid catalyst?,Ester,Ether,Aldehyde,Ketone,A,Organic Chemistry,Alcohols & Phenols,Hard,08-06-2022,Shift 2
+169,What is the hybridization of the carbon atom in acetylene (C2H2)?,sp,sp2,sp3,sp3d,A,Organic Chemistry,Chemical Bonding,Hard,09-06-2022,Shift 1
+170,What is the major product of the reaction between phenol and acetic anhydride?,Acetophenone,Phenyl acetate,2-Hydroxyacetophenone,No reaction,A,Organic Chemistry,Aromatic Compounds,Hard,10-06-2022,Shift 2
+171,What is the IUPAC name of the compound with the formula C5H10?,Pentene,2-Pentene,Pentanol,1-Pentanol,B,Organic Chemistry,Hydrocarbons,Hard,13-06-2022,Shift 1
+172,What is the oxidation state of chromium in CrO3?,2,3,6,7,C,Inorganic Chemistry,Redox Reactions,Hard,14-06-2022,Shift 1
+173,What is the coordination number of the central atom in [Fe(CN)6]n-?,4,6,8,2,B,Inorganic Chemistry,Coordination Compounds,Hard,16-06-2022,Shift 1
+174,What is the oxidation state of manganese in MnO4??,2,4,6,7,D,Inorganic Chemistry,Redox Reactions,Hard,19-06-2022,Shift 2
+175,What is the coordination number of the central atom in [Ni(CN)4]2-?,4,6,2,8,A,Inorganic Chemistry,Coordination Compounds,Hard,22-06-2022,Shift 1
+176,What is the hybridization of the central atom in [Cu(NH3)4]2-?,sp2,sp3,sp3d,sp3d2,B,Inorganic Chemistry,Coordination Compounds,Hard,23-06-2022,Shift 2
+177,Calculate the pH of a 0.05 M HCl solution.,1,1.3,1.7,2,B,Physical Chemistry,Acids & Bases,Hard,26-06-2022,Shift 1
+178,What is the molarity of a solution containing 15 g of NaCl in 250 mL of solution?,0.5 M,0.75 M,1.0 M,1.5 M,A,Physical Chemistry,Solutions,Hard,27-06-2022,Shift 2
+179,What is the rate constant (k) for a first-order reaction if the half-life (t1/2) is 15 minutes?,0.0462 min-1,0.0693 min-1,0.1 min-1,0.5 min-1,A,Physical Chemistry,Chemical Kinetics,Hard,29-06-2022,Shift 2
+180,Calculate the freezing point depression (ΔTf) for a solution of 3 moles of NaCl in 1 kg of water (Kf for water = 1.86 ｰC kg/mol).,5.58 0C,3.72 0C,1.86 0C,4.32 0C,A,Physical Chemistry,Solutions,Hard,30-06-2022,Shift 1
+181,What is the vapor pressure of a solution containing 30 g of glucose in 300 g of water at 25 0C (Vapor pressure of pure water = 23.76 mmHg)?,22.0 mmHg,20.5 mmHg,21.0 mmHg,21.5 mmHg,A,Physical Chemistry,Solutions,Hard,01-07-2022,Shift 2
+182,"Calculate the equilibrium constant (Kc) for the reaction: 2NO(g) + O2(g) -> 2NO2(g) if the concentrations at equilibrium are [NO] = 0.4 M, [O2] = 0.1 M, and [NO2] = 0.8 M.",8,4,2,1,A,Physical Chemistry,Chemical Equilibrium,Hard,02-07-2022,Shift 1
+183,What is the pH of a 0.2 M solution of KOH?,12,13,14,11,B,Physical Chemistry,Acids & Bases,Hard,03-07-2022,Shift 2
+184,Calculate the molar mass of a gas if 2 g of the gas occupies 1 L at 1 atm and 273 K.,44.8 g/mol,22.4 g/mol,11.2 g/mol,5.6 g/mol,A,Physical Chemistry,Gaseous State,Hard,04-07-2022,Shift 1
+185,What is the change in internal energy (ΔU) for a system that absorbs 200 J of heat and does 80 J of work on the surroundings?,120 J,80 J,-120 J,-80 J,A,Physical Chemistry,Thermodynamics,Hard,05-07-2022,Shift 2
+186,Calculate the standard Gibbs free energy change (ΔGｰ) at 298 K for the reaction: A -> B if K = 0.1.,2.30 kJ/mol,-2.30 kJ/mol,0 kJ/mol,-1.61 kJ/mol,A,Physical Chemistry,Thermodynamics,Hard,06-07-2022,Shift 1
+187,What is the heat of reaction (ΔH) for the combustion of 2 moles of propane (C3H8) if the enthalpy of formation of CO2 and H2O are -393.5 kJ/mol and -241.8 kJ/mol respectively?,-2200 kJ,-2000 kJ,-1800 kJ,-1600 kJ,A,Physical Chemistry,Thermodynamics,Hard,07-07-2022,Shift 2
+188,Calculate the concentration of H+ ions in a solution with a pH of 1.,0.1 M,0.01 M,1 M,0.001 M,A,Physical Chemistry,Acids & Bases,Hard,08-07-2022,Shift 1
+189,What is the molality of a solution containing 20 g of NaCl in 500 g of water?,0.5 m,1.0 m,1.5 m,2.0 m,B,Physical Chemistry,Solutions,Hard,09-07-2022,Shift 2
+190,Calculate the change in entropy (ΔS) for a process where 150 J of heat is absorbed at a constant temperature of 298 K.,0.50 J/K,0.75 J/K,0.33 J/K,0.67 J/K,D,Physical Chemistry,Thermodynamics,Hard,10-07-2022,Shift 1
+191,What is the functional group in aldehydes?,-CH, -COOH, -CHO, -CO,C,Organic Chemistry,Aldehydes and Ketones,Easy,05-05-2023,Shift 1
+192,Which of the following is an example of heterogeneous catalysis?,Decomposition of H2O2 by KI,Combustion of methane,Ozone depletion by CFCs,Rusting of iron,A,Physical Chemistry,Chemical Kinetics,Medium,05-05-2023,Shift 2
+193,Which of the following has the highest boiling point?,CH4,C2H5OH,C2H6,C3H8,B,Physical Chemistry,States of Matter,Medium,05-05-2023,Shift 1
+194,Which gas is evolved when zinc reacts with dilute HCl?,O2,H2,CO2,Cl2,B,Organic Chemistry,Metals & Non-Metals,Easy,06-05-2023,Shift 2
+195,Which polymer is used in non-stick cookware?,PVC,Teflon,Nylon,Bakelite,B,Organic Chemistry,Polymers,Easy,06-05-2023,Shift 2
+196,Which type of reaction occurs when ethene reacts with Br2?,Substitution,Addition,Elimination,Rearrangement,B,Organic Chemistry,Alkenes and Alkynes,Easy,06-05-2023,Shift 2
+197,Which element has the highest first ionization energy?,Na,K,F,Li,C,Inorganic Chemistry,Periodic Table,Medium,07-05-2023,Shift 1
+198,Which of the following is a reducing sugar?,Sucrose,Lactose,Maltose,Fructose,B,Organic Chemistry,Biomolecules,Medium,08-05-2023,Shift 1
+199,Which among the following is an example of an electrophile?,NH3,H2O,BF3,C2H6,C,Organic Chemistry,Reaction Mechanism,Easy,08-05-2023,Shift 1
+200,Which compound is used as an antacid?,NaHCO3,HCl,H2SO4,NaOH,A,Inorganic Chemistry,Acids & Bases,Easy,08-05-2023,Shift 2
+201,Which of the following is an example of a biodegradable polymer?,Polystyrene,Polyvinyl chloride,Polyethylene,Polyhydroxybutyrate,D,Organic Chemistry,Polymers,Medium,09-05-2023,Shift 2
+202,Which of the following is an example of a homogeneous catalyst?,Fe in Haber process,Pt in Ostwald process,Ni in hydrogenation,V2O5 in Contact process,B,Physical Chemistry,Catalysis,Medium,09-05-2023,Shift 1
+203,What is the hybridization of carbon in ethene?,sp,sp2,sp3,None,B,Organic Chemistry,Chemical Bonding,Easy,10-05-2023,Shift 1
+204,Which of the following compounds is most basic?,Aniline,Pyridine,Ammonia,Ethylamine,D,Organic Chemistry,Amines,Medium,10-05-2023,Shift 1
+205,Which of the following has the highest conductivity?,Ag,Cu,Al,Fe,A,Inorganic Chemistry,Metallurgy,Easy,11-05-2023,Shift 2
+206,Which acid is present in vinegar?,Lactic acid,Acetic acid,Formic acid,Citric acid,B,Organic Chemistry,Acids & Bases,Easy,11-05-2023,Shift 1
+207,What is the coordination number of Na+ in NaCl crystal?,4,6,8,12,B,Inorganic Chemistry,Solid State,Easy,12-05-2023,Shift 1
+208,Which of the following compounds contains an sp-hybridized carbon?,Ethene,Ethyne,Benzene,Cyclohexane,B,Organic Chemistry,Hybridization,Medium,12-05-2023,Shift 2
+209,What is the major product when 2-bromopropane reacts with alcoholic KOH?,Propene,1-Butene,2-Butene,1-Hexene,B,Organic Chemistry,Elimination Reactions,Medium,13-05-2023,Shift 1
+210,Which gas is liberated when an acid reacts with a metal?,Oxygen,Hydrogen,Carbon dioxide,Nitrogen,B,Inorganic Chemistry,Acid-Base Reactions,Easy,14-05-2023,Shift 1
+211,Which of the following is a molecular crystal?,NaCl,Diamond,Ice,Copper,C,Inorganic Chemistry,Solid State,Medium,14-05-2023,Shift 2
+212,What is the major product formed when benzene reacts with CH3Cl in the presence of AlCl3?,Chlorobenzene,Toluene,Benzyl chloride,Phenol,B,Organic Chemistry,Haloalkanes and Haloarenes,Medium,14-05-2023,Shift 2
+213,Which polymer is formed by the polymerization of ethene?,Polyvinyl chloride,Polystyrene,Polythene,Bakelite,C,Organic Chemistry,Polymers,Medium,15-05-2023,Shift 1
+214,Which of the following is NOT an extensive property?,Density,Molar mass,Pressure,Temperature,C,Physical Chemistry,Thermodynamics,Medium,16-05-2023,Shift 2
+215,Which of the following is the most stable carbocation?,Primary,Secondary,Tertiary,Allylic,C,Organic Chemistry,Reaction Intermediates,Hard,17-05-2023,Shift 1
+216,What is the bond order of O2 molecule?,1,2,3,4,B,Physical Chemistry,Molecular Orbital Theory,Medium,18-05-2023,Shift 2
+217,Which of the following metals reacts with cold water?,Cu,Na,Ca,Mg,B,Inorganic Chemistry,Metals,Easy,19-05-2023,Shift 1
+218,Which law states that energy can neither be created nor destroyed?,Boyle's Law,Dalton's Law,Law of conservation of energy,Avogadro's Law,C,Physical Chemistry,Thermodynamics,Medium,20-05-2023,Shift 2
+219,Which of the following gases does not show the Joule-Thomson effect?,H2,He,N2,Ne,B,Physical Chemistry,Gaseous State,Easy,21-05-2023,Shift 1
+220,Which of the following solutions will have the lowest freezing point?,0.1M NaCl,0.1M KCl,0.1M MgCl2,0.1M AlCl3,D,Physical Chemistry,Solutions,Medium,22-05-2023,Shift 2
+221,Which of the following is an amphoteric oxide?,MgO,ZnO,Al2O3,SiO2,B,Inorganic Chemistry,Oxides,Hard,23-05-2023,Shift 1
+222,What is the coordination number of Na+ in NaCl crystal?,6,4,8,12,B,Physical Chemistry,Crystal Structures,Medium,24-05-2023,Shift 2
+223,Which metal is commonly used in galvanization?,Zn,Fe,Pb,Al,B,Inorganic Chemistry,Metallurgy,Easy,26-05-2023,Shift 2
+224,What is the IUPAC name of CH3COCH3?,Acetone,Ethanone,Methanone,Propanone,D,Organic Chemistry,Organic Compounds,Easy,27-05-2023,Shift 1
+225,Which process is used to purify silicon for semiconductor applications?,Electrolysis,Zone refining,Hydrolysis,Distillation,B,Inorganic Chemistry,Purification Techniques,Medium,28-05-2023,Shift 2
+226,Which of the following alcohols will dehydrate most easily?,Methanol,Propanol,Butanol,Pentanol,B,Organic Chemistry,Alcohols & Phenols,Medium,29-05-2023,Shift 1
+227,Which of the following has the highest dipole moment?,CO2,O2,CH4,H2O,C,Physical Chemistry,Dipole Moments,Medium,30-05-2023,Shift 2
+228,Which of the following is NOT a greenhouse gas?,O3,N2,CO,SO2,C,Inorganic Chemistry,Environmental Chemistry,Medium,31-05-2023,Shift 1
+229,What is the common name of CHCl3?,Formalin,Chloroform,Benzene,Carbon tetrachloride,D,Organic Chemistry,Common Names,Easy,01-06-2023,Shift 2
+230,Which of the following has the highest lattice energy?,MgO,NaCl,Al2O3,CsCl,B,Inorganic Chemistry,Lattice Energy,Hard,02-06-2023,Shift 1
+231,Which vitamin deficiency causes rickets?,Vitamin A,Vitamin D,Vitamin C,Vitamin B12,B,Organic Chemistry,Biomolecules,Easy,03-06-2023,Shift 2
+232,What is the IUPAC name of CH3CH2OH?,Methanol,Ethanol,Propanol,Butanol,B,Organic Chemistry,Alcohols,Easy,02-05-2024,Shift 2
+233,Which quantum number determines the shape of an orbital?,Principal quantum number,Azimuthal quantum number,Magnetic quantum number,Spin quantum number,B,Physical Chemistry,Atomic Structure,Easy,02-05-2024,Shift 1
+234,Which of the following solutions has the highest boiling point?,0.1 M NaCl,0.1 M glucose,0.1 M urea,0.1 M CaCl2,D,Physical Chemistry,Solutions,Medium,02-05-2024,Shift 2
+235,Which law states that the total entropy of an isolated system always increases?,Boyle's Law,First Law of Thermodynamics,Second Law of Thermodynamics,Third Law of Thermodynamics,C,Physical Chemistry,Thermodynamics,Medium,03-05-2024,Shift 2
+236,Which of these metals has an HCP crystal structure?,Fe,Cu,Zn,Al,C,Physical Chemistry,Solid State,Medium,03-05-2024,Shift 1
+237,Which of the following has the highest bond energy?,F2,Cl2,Br2,I2,B,Inorganic Chemistry,Chemical Bonding,Medium,03-05-2024,Shift 1
+238,"In the electrolysis of aqueous NaCl, which ions are discharged at the cathode?",Na+,Cl-,H+,OH-,C,Physical Chemistry,Electrochemistry,Easy,03-05-2024,Shift 1
+239,Which of the following compounds is used as an oxidizing agent?,KMnO4,KCl,KBr,KI,A,Inorganic Chemistry,Coordination Chemistry,Medium,04-05-2024,Shift 1
+240,Which polymer is made from ethene?,Nylon-6,Teflon,Polyethene,PVC,C,Organic Chemistry,Polymers,Medium,04-05-2024,Shift 1
+241,What is the oxidation state of Fe in Fe2O3?,2,3,4,6,B,Inorganic Chemistry,Redox Reactions,Easy,04-05-2024,Shift 2
+242,Which colligative property is used to determine the molar mass of a solute?,Viscosity,Surface tension,Osmotic pressure,Refractive index,C,Physical Chemistry,Solutions,Medium,04-05-2024,Shift 1
+243,Which of the following is a characteristic property of noble gases?,High reactivity,Low boiling points,Forming strong bonds,High electronegativity,B,Inorganic Chemistry,Periodic Table,Easy,05-05-2024,Shift 1
+244,Which of the following gases is used in welding?,Helium,Nitrogen,Acetylene,Oxygen,C,Inorganic Chemistry,Industrial Chemistry,Easy,07-05-2024,Shift 2
+245,Which of the following is a correct order of acidic strength?,HF > HCl > HBr > HI,HI > HBr > HCl > HF,HCl > HF > HBr > HI,HBr > HI > HF > HCl,B,Inorganic Chemistry,Acid-Base Chemistry,Medium,07-05-2024,Shift 1
+246,Which of the following is a primary alcohol?,Methanol,Isopropanol,Tert-butanol,Benzyl alcohol,A,Organic Chemistry,"Alcohols, Phenols and Ethers",Medium,08-05-2024,Shift 1
+247,Which of the following is a noble gas?,O2,N2,He,H2,C,Inorganic Chemistry,Noble Gases,Easy,09-05-2024,Shift 2
+248,Which of the following is an example of an aromatic compound?,Cyclohexane,Benzene,Hexane,Butane,B,Organic Chemistry,Aromaticity,Medium,09-05-2024,Shift 2
+249,The rate constant of a first-order reaction is 0.693 min-1. What is its half-life?,0.1 min,1 min,10 min,100 min,B,Physical Chemistry,Chemical Kinetics,Medium,09-05-2024,Shift 2
+250,Which of the following will have the highest boiling point?,1-Butanol,2-Butanol,2-Methylpropan-2-ol,Ethanol,A,Organic Chemistry,"Alcohols, Phenols and Ethers",Medium,09-05-2024,Shift 1
+251,Which of the following compounds has the highest lattice energy?,NaCl,MgO,Al2O3,KCl,B,Inorganic Chemistry,Solid State,Medium,10-05-2024,Shift 1
+252,What is the main product when ethanol is heated with excess concentrated H2SO4 at 1700C?,Ethene,Ethanol,Diethyl ether,Methanol,A,Organic Chemistry,Alcohols,Medium,13-05-2024,Shift 2
+253,Which reagent is used to test for aldehydes?,Tollens',Benedict's,Fehling's,All of these,D,Organic Chemistry,Aldehydes & Ketones,Easy,13-05-2024,Shift 1
+254,A gas obeys van der Waals equation. Which statement is false?,It has intermolecular forces.,Its molecules have finite volume.,It follows ideal gas law always.,It undergoes liquefaction.,C,Physical Chemistry,Gaseous State,Medium,13-05-2024,Shift 1
+255,What is the oxidation state of Cr in K2Cr2O7?,2,3,6,7,C,Inorganic Chemistry,Redox Reactions,Medium,13-05-2024,Shift 2
+256,Which functional group is present in acetone?,Aldehyde,Ketone,Carboxyl,Ester,B,Organic Chemistry,Functional Groups,Easy,14-05-2024,Shift 1
+257,What type of isomerism is shown by but-2-ene and but-1-ene?,Chain,Functional,Geometrical,Optical,C,Organic Chemistry,Isomerism,Medium,14-05-2024,Shift 1
+258,Which reagent is used to distinguish between aldehydes and ketones?,Tollens reagent,Fehling's reagent,Benedict's reagent,Lucas reagent,A,Organic Chemistry,Aldehydes & Ketones,Medium,15-05-2024,Shift 2
+259,Which type of colloid is formed when a liquid is dispersed in a solid?,Gel,Emulsion,Sol,Foam,B,Physical Chemistry,Colloids,Medium,17-05-2024,Shift 2
+260,Which vitamin is also known as ascorbic acid?,Vitamin A,Vitamin C,Vitamin D,Vitamin B12,B,Organic Chemistry,Biomolecules,Easy,18-05-2024,Shift 1
+261,Which metal is extracted using the electrolytic reduction method?,Fe,Cu,Al,Zn,B,Inorganic Chemistry,Metallurgy,Medium,19-05-2024,Shift 2
+262,Which of the following is a secondary alcohol?,Methanol,Propanol,Propan-2-ol,Butanol,C,Organic Chemistry,Alcohols,Easy,20-05-2024,Shift 1
+263,What is the general formula of alkenes?,CnH2n+2,CnH2n,CnH2n-2,CnH2nO2,B,Organic Chemistry,Hydrocarbons,Medium,21-05-2024,Shift 2
+264,Which of the following compounds gives a positive iodoform test?,Methanol,Ethanol,Acetone,Ethanoic acid,C,Organic Chemistry,Aldehydes & Ketones,Medium,22-05-2024,Shift 1
+265,Which type of reaction is involved in the polymerization of ethene?,Addition,Condensation,Elimination,Oxidation,A,Organic Chemistry,Polymers,Medium,23-05-2024,Shift 2
+266,Which of the following gases is used in the Haber process for ammonia synthesis?,Oxygen,Hydrogen,Nitrogen,Argon,B,Inorganic Chemistry,Industrial Chemistry,Easy,24-05-2024,Shift 1
